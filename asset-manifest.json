@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Gaurav-pujari/react.js_first_project/static/css/main.f855e6bc.css",
-    "main.js": "/Gaurav-pujari/react.js_first_project/static/js/main.ae4ceb89.js",
+    "main.js": "/Gaurav-pujari/react.js_first_project/static/js/main.319c35c2.js",
     "static/js/453.0a36081d.chunk.js": "/Gaurav-pujari/react.js_first_project/static/js/453.0a36081d.chunk.js",
     "index.html": "/Gaurav-pujari/react.js_first_project/index.html",
     "main.f855e6bc.css.map": "/Gaurav-pujari/react.js_first_project/static/css/main.f855e6bc.css.map",
-    "main.ae4ceb89.js.map": "/Gaurav-pujari/react.js_first_project/static/js/main.ae4ceb89.js.map",
+    "main.319c35c2.js.map": "/Gaurav-pujari/react.js_first_project/static/js/main.319c35c2.js.map",
     "453.0a36081d.chunk.js.map": "/Gaurav-pujari/react.js_first_project/static/js/453.0a36081d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.ae4ceb89.js"
+    "static/js/main.319c35c2.js"
   ]
 }
